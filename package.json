@@ -1,5 +1,5 @@
 {
-  "name": "inject-css",
+  "name": "css-into-js",
   "version": "0.1.0",
   "description": "Package the CSS along with your JS",
   "main": "index.js",
@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "css2js",
     "css",
     "js"
   ],
@@ -15,7 +14,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rogerpadilla/inject-css.git"
+    "url": "https://github.com/rogerpadilla/css-into-js.git"
   },
   "dependencies": {
     "through2": "2.0.3"
