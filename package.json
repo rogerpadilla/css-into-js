@@ -1,5 +1,5 @@
 {
-  "name": "css2js",
+  "name": "inject-css",
   "version": "0.1.0",
   "description": "Package the CSS along with your JS",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rogerpadilla/css2js.git"
+    "url": "https://github.com/rogerpadilla/inject-css.git"
   },
   "dependencies": {
     "through2": "2.0.3"
