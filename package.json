@@ -1,0 +1,23 @@
+{
+  "name": "css2js",
+  "version": "0.1.0",
+  "description": "Package the CSS along with your JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css2js",
+    "css",
+    "js"
+  ],
+  "author": "rogerjose81@gmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rogerpadilla/css2js.git"
+  },
+  "dependencies": {
+    "through2": "2.0.3"
+  }
+}
