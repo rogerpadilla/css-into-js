@@ -1,7 +1,7 @@
 {
   "name": "css-into-js",
-  "version": "0.1.3",
-  "description": "Package the CSS along with your JS",
+  "version": "0.1.4",
+  "description": "Embed CSS into JS files with Gulp, allows to package CSS alongside the JS code ala Web Components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
