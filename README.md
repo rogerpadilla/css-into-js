@@ -1,6 +1,6 @@
 # css-into-js
 
-### Embed CSS into JS files with Gulp, allows to package CSS alongside the JS code ala Web Components.
+### Package CSS alongside the JS code in the generated bundle (be able to provide a single .js bundle file to distribute your module).
 
 #### Usage example:
 
