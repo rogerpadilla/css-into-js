@@ -1,7 +1,7 @@
 var fs = require('fs');
 var through = require('through2');
 
-var tpl = fs.readFileSync('wrap-style.tpl.js').toString();
+var tpl = fs.readFileSync(__dirname + '/wrap-style.tpl.js').toString();
 
 
 module.exports = function () {
