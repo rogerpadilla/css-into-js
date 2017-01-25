@@ -1,8 +1,7 @@
 var fs = require('fs');
 var through = require('through2');
 
-
-var tpl = fs.readFileSync('wrap-style-tpl.js').toString();
+var tpl = fs.readFileSync('wrap-style.tpl.js').toString();
 
 
 module.exports = function () {
@@ -16,7 +15,7 @@ module.exports = function () {
     file.contents = new Buffer(wrapped);
 
     this.push(file);
-    
+
     return cb();
   });
 

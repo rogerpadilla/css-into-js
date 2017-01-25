@@ -1,6 +1,6 @@
 {
   "name": "css-into-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Package the CSS along with your JS",
   "main": "index.js",
   "scripts": {
